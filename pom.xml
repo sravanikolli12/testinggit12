@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>project.in</groupId>
-  <artifactId>DevOpsRocks</artifactId>
+  <artifactId>DevOpsTest</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>DevOpsRocks Maven Webapp</name>
+  <name>DevOpsTest Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
